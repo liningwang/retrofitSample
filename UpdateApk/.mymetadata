@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="UpdateApk"
+  id="myeclipse.1495867207163"
+  context-root="/UpdateApk"
+  j2ee-spec="5.0"
+  archive="UpdateApk.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

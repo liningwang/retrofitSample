@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="UpdateServlet"
+  id="myeclipse.1495090277325"
+  context-root="/UpdateServlet"
+  j2ee-spec="5.0"
+  archive="UpdateServlet.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
